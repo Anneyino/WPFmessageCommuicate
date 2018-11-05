@@ -1,0 +1,14 @@
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\bin\Debug\WpfAccepter.exe.config
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\bin\Debug\WpfAccepter.exe
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\bin\Debug\WpfAccepter.pdb
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\MainWindow.g.cs
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\App.g.cs
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter_MarkupCompile.cache
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter_MarkupCompile.lref
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\MainWindow.baml
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter.g.resources
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter.Properties.Resources.resources
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter.csproj.GenerateResource.cache
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter.csproj.CoreCompileInputs.cache
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter.exe
+C:\Users\Anneyino\source\repos\WpfAccepter\WpfAccepter\obj\Debug\WpfAccepter.pdb

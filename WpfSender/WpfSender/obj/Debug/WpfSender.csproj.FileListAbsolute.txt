@@ -1,0 +1,15 @@
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender.csprojAssemblyReference.cache
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\MainWindow.g.cs
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\App.g.cs
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender_MarkupCompile.cache
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender_MarkupCompile.lref
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\bin\Debug\WpfSender.exe.config
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\bin\Debug\WpfSender.exe
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\bin\Debug\WpfSender.pdb
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\MainWindow.baml
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender.g.resources
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender.Properties.Resources.resources
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender.csproj.GenerateResource.cache
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender.csproj.CoreCompileInputs.cache
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender.exe
+C:\Users\Anneyino\source\repos\WpfSender\WpfSender\obj\Debug\WpfSender.pdb
